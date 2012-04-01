@@ -1,4 +1,4 @@
-Flickr Photo for Octopress
+Flickr Photo for JeyKyll
 =======================
 
 Description:
@@ -23,7 +23,7 @@ Syntax:
 Todo:
 ------
 - cache
-
+- unittest
 
 
 Licence:
